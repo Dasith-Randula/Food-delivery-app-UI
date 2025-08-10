@@ -7,7 +7,8 @@ Created using **Figma** to deliver an easy-to-use, visually appealing, and user-
 ---
 
 ## 📸 Preview
-![UI Preview](preview/Frame%204.png)
+![UI Preview](preview/frame4.png)
+
 
 ---
 
@@ -34,5 +35,5 @@ Created using **Figma** to deliver an easy-to-use, visually appealing, and user-
 
 ## 📬 Contact
 If you like this design or want to collaborate, connect with me:  
-- **LinkedIn:** [Your LinkedIn URL]  
-- **Email:** your@email.com
+- **LinkedIn:** [www.linkedin.com/in/dasith-randula-ba5ba9319]  
+- **Email:** dasithrandula1234@gmail.com
