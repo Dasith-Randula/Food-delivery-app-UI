@@ -7,7 +7,7 @@ Created using **Figma** to deliver an easy-to-use, visually appealing, and user-
 ---
 
 ## 📸 Preview
-![UI Preview](preview/frame4.png)
+![UI Preview](Preview/Frame4.png)
 
 
 ---
